@@ -1,0 +1,17 @@
+{
+  "name": "printerApp",
+  "version": "0.0.1",
+  "description": "test sending xml tmeplate to Brady IP300 printer using printer node module",
+  "preferGlobal": "true",
+  "bin": {
+    "printer": "brady.js"
+  },
+  "author": "Nina Mezu",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "angular": "1.6.1",
+    "printer":"git+https://github.com/tojocky/node-printer"
+  }
+}
