@@ -11,7 +11,7 @@
     "node": "*"
   },
   "dependencies": {
-    "angular": "1.6.1",
-    "printer":"git+https://github.com/tojocky/node-printer"
+    "angular": "1.6.9",
+    "printer": "git+https://github.com/tojocky/node-printer"
   }
 }
